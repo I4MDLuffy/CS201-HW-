@@ -1,1 +1,3 @@
-"# CS201-HW-" 
+# hello-world
+Practice for github
+a bit about myself
